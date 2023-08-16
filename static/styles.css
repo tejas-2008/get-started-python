@@ -4,6 +4,8 @@ html {
 }
 body {
   margin-bottom: 60px;
+  background-color: antiquewhite; 
+  /* first part of modified first commit */
 }
 .footer {
   position: absolute;
